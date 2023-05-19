@@ -1,4 +1,4 @@
-                               Arduino very bad USB
+                                  Arduino very bad USB
 
       I let the experienced user find out which IDE version and drivers to use. 
       A little bit of work to make it happen is mandatory, for myself to not feel 
