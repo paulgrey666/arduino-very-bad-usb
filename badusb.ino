@@ -1,8 +1,8 @@
 #include <DigiKeyboard.h>
-/*Nothing to specify*/
+/*Let the fun begins*/
 
 void setup()
-{//turn LED off while code is running, this means the device is safe to unplug as soon as the LED turns back on
+{
   pinMode(1, OUTPUT); //LED on Model A
 
   //Kill Windows Defender
